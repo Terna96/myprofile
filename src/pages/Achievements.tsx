@@ -6,17 +6,17 @@ import { Award, Star, Trophy, Medal, Target, Zap } from 'lucide-react';
 const Achievements = () => {
   const certifications = [
     {
-      title: 'AWS Certified Solutions Architect',
-      issuer: 'Amazon Web Services',
-      date: '2023',
-      credential: 'AWS-SA-2023-001234',
+      title: 'CERTIFICATE OF CYBERSECURITY EXPERT',
+      issuer: 'KEEK TECH ACADEMY | BENUE DIGITAL INFRASTUCTURAL COMPANY LIMTED',
+      date: '2024',
+      credential: 'BDIC-NG-2024-001234',
       icon: Award,
     },
     {
       title: 'React Developer Certification',
-      issuer: 'Meta',
+      issuer: 'Udemy',
       date: '2022',
-      credential: 'META-REACT-2022-5678',
+      credential: 'UDEMY-REACT-2022-5678',
       icon: Star,
     },
     {
