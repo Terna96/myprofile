@@ -25,7 +25,7 @@ const Header = () => {
         <div className="flex justify-between items-center py-4">
           {/* Logo */}
           <Link to="/" className="text-xl font-bold hero-text">
-            Your Name
+           Terna
           </Link>
 
           {/* Desktop Navigation */}

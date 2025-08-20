@@ -11,10 +11,10 @@ const Footer = () => {
   ];
 
   const socialLinks = [
-    { name: 'GitHub', href: '#', icon: Github },
+    { name: 'GitHub', href: 'https://github.com/Terna96', icon: Github },
     { name: 'LinkedIn', href: '#', icon: Linkedin },
     { name: 'Twitter', href: '#', icon: Twitter },
-    { name: 'Email', href: 'mailto:your.email@example.com', icon: Mail },
+    { name: 'Email', href: 'ternapeter9@gmail.com', icon: Mail },
   ];
 
   return (
@@ -23,7 +23,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
           {/* Copyright */}
           <div className="text-sm text-muted-foreground">
-            © {currentYear} Your Name. All rights reserved.
+            © {currentYear} Pnut. All rights reserved.
           </div>
 
           {/* Quick Links */}
