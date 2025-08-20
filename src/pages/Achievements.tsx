@@ -37,9 +37,9 @@ const Achievements = () => {
 
   const awards = [
     {
-      title: 'Developer of the Year',
-      organization: 'Tech Innovations Inc.',
-      year: '2023',
+      title: 'Developer of the Season',
+      organization: 'Learn2Earn Institute.',
+      year: '2025',
       description: 'Recognized for outstanding contributions to product development and team leadership.',
       icon: Trophy,
     },
@@ -62,14 +62,14 @@ const Achievements = () => {
   const achievements = [
     {
       title: 'Open Source Contributor',
-      description: '50+ contributions to various open-source projects',
-      metric: '2,500+ GitHub stars',
+      description: '20+ contributions to various open-source projects',
+      metric: '200+ GitHub stars',
       icon: Star,
     },
     {
       title: 'Project Success Rate',
       description: 'Successfully delivered 100% of assigned projects on time',
-      metric: '50+ Projects',
+      metric: '20+ Projects',
       icon: Target,
     },
     {
