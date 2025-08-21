@@ -44,19 +44,19 @@ const Contact = () => {
     {
       icon: Mail,
       label: 'Email',
-      value: 'your.email@example.com',
-      href: 'mailto:your.email@example.com',
+      value: 'Ternapeter9@gmail.com',
+      href: 'Ternapeter9@gmail.com',
     },
     {
       icon: Phone,
       label: 'Phone',
-      value: '+1 (555) 123-4567',
-      href: 'tel:+15551234567',
+      value: '+234 810-175-4158',
+      href: 'tel:+2348101754158',
     },
     {
       icon: MapPin,
       label: 'Location',
-      value: 'Your City, Country',
+      value: 'Lagos, Nigeria',
       href: '#',
     },
   ];
@@ -65,7 +65,7 @@ const Contact = () => {
     {
       icon: Github,
       label: 'GitHub',
-      href: 'https://github.com/yourusername',
+      href: 'https://github.com/Terna96',
       color: 'hover:text-gray-600',
     },
     {
